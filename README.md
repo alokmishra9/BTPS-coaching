@@ -1,2 +1,2 @@
-# BTPS-coaching
+# BTPS
 BTPS coaching website by me
